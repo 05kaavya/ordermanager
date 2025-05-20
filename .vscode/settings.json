@@ -12,7 +12,7 @@
             "name": "Local MySQL",
             "database": "appdb",
             "username": "root",
-            "password": "#Hex521704"
+            "password": "ur password"
         }
     ]
 }
